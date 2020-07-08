@@ -1,0 +1,23 @@
+C:\Program Files (x86)\Steam\steamapps\common\Sega Classics\uncompressed ROMs
+
+D:\_PRODUCTION\DEV.WORK\openai-neat\openai-venv\Lib\site-packages\retro\data\stable\
+
+python -m retro.import "D:\_PRODUCTION\DEV.WORK\openai-neat\ROMS"
+
+
+Docs:
+https://retro.readthedocs.io/en/latest/getting_started.html
+
+
+References:
+https://gitlab.com/lucasrthompson/Sonic-Bot-In-OpenAI-and-NEAT
+https://www.youtube.com/playlist?list=PLTWFMbPFsvz3CeozHfeuJIXWAJMkPtAdS
+
+
+Action  [0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0]
+
+Image  (224, 320, 3) 
+Reward  0.0 
+Done?  False
+
+Info {'level_end_bonus': 0, 'rings': 0, 'score': 0, 'zone': 0, 'act': 0, 'screen_x_end': 9407, 'screen_y': 768, 'lives': 1, 'x': 765, 'y': 995, 'screen_x': 599}
