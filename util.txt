@@ -9,9 +9,12 @@ Docs:
 https://retro.readthedocs.io/en/latest/getting_started.html
 
 
-References:
+References Lucas Thompson:
 https://gitlab.com/lucasrthompson/Sonic-Bot-In-OpenAI-and-NEAT
 https://www.youtube.com/playlist?list=PLTWFMbPFsvz3CeozHfeuJIXWAJMkPtAdS
+
+References Machine Learning with Phil
+https://www.youtube.com/watch?v=RfNxXlO6BiA
 
 
 Action  [0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0]
