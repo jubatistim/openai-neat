@@ -54,3 +54,5 @@ Importing RevengeOfShinobi-Genesis
 Importing ToeJamAndEarlInPanicOnFunkotron-Genesis
 Importing Vectorman2-Genesis
 Importing Vectorman-Genesis
+
+Importing DonkeyKongCountry-Snes
